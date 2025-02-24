@@ -1,1 +1,0 @@
-C:\Projetos-Csharp\Introducao\Introducao\Introducao.csproj;x64
