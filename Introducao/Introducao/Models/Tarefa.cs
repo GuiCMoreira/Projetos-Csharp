@@ -20,7 +20,11 @@ namespace Introducao.Models
         {
             id++;
             codigo = id;
+            nome = "";
+            descricao = "";
             inserida = DateTime.Now;
+            concluida = null;
+            pronto = false;
         }
 
         public string Nome { get => nome; set => nome = value; }
