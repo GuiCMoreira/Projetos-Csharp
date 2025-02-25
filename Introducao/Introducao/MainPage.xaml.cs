@@ -1,24 +1,21 @@
-﻿namespace Introducao
+﻿using Introducao.Models;
+
+namespace Introducao
 {
     public partial class MainPage : ContentPage
     {
-        int count = 0;
 
         public MainPage()
         {
             InitializeComponent();
+            
+            minhaLista.ItemsSource = App.tarefas;
         }
 
-        private void OnCounterClicked(object sender, EventArgs e)
+        private void minhaLista_ItemTapped(object sender, ItemTappedEventArgs e)
         {
-            count++;
-
-            if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
-            else
-                CounterBtn.Text = $"Clicked {count} times";
-
-            SemanticScreenReader.Announce(CounterBtn.Text);
+            string aux = ((sender as ListView).SelectedItem as Tarefa).Nome;
+            DisplayAlert("Introdução", $"Tarefa selecionada: {aux}", "OK");
         }
     }
 

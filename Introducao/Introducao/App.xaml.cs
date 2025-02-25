@@ -4,7 +4,7 @@ namespace Introducao
 {
     public partial class App : Application
     {
-        public List<Tarefa> tarefas = new List<Tarefa>();
+        public static List<Tarefa> tarefas = new List<Tarefa>();
 
         public App()
         {  
