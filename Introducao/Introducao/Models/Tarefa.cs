@@ -31,7 +31,18 @@ namespace Introducao.Models
         public string Descricao { get => descricao; set => descricao = value; }
         public DateTime Inserida { get => inserida; }
         public DateTime? Concluida { get => concluida; }
-        public bool Pronto { get => pronto; set => pronto = value; }
+        public bool Pronto { get => pronto;
+            set { pronto = value;
+                if (pronto = true)
+                {
+                    concluida = DateTime.Now;
+                }
+                else
+                {
+                    concluida = null;
+                }
+            }
+        }
         public int Codigo { get => codigo; }
         public static int Id { get => id; }
     }
