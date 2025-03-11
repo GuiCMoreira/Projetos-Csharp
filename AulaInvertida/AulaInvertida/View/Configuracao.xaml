@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:paginas="clr-namespace:AulaInvertida.View.Reutilizar"
+             x:Class="AulaInvertida.View.Configuracao"
+             Title="Configuracao">
+    <VerticalStackLayout>
+        <VerticalStackLayout>
+            <paginas:Cabecalho/>
+        </VerticalStackLayout>
+
+        
+        <VerticalStackLayout>
+            <Grid RowDefinitions="*,*,*,*" ColumnDefinitions="*,*">
+                <Label HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="0" Grid.Column="0" Text="Foto:"/>
+                <Image HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="0" Grid.Column="1" MaximumWidthRequest="200" Source="customerloginicon8.jpg"/>
+
+                <Label HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="1" Grid.Column="0" Text="RA:"/>
+                <Label HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="1" Grid.Column="1" Text="47708562880"/>
+
+                <Label HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="2" Grid.Column="0" Text="Nome:"/>
+                <Label HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="2" Grid.Column="1" Text="Nome do Aluno"/>
+
+                <Label HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="3" Grid.Column="0" Text="Curso"/>
+                <Label HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="3" Grid.Column="1" Text="Tecnólogo em Análise e Desenvolvimento de Sistemas"/>
+            </Grid>
+        </VerticalStackLayout>
+
+
+        <VerticalStackLayout>
+            <paginas:Rodape/>
+        </VerticalStackLayout>
+    </VerticalStackLayout>
+    
+</ContentPage>
