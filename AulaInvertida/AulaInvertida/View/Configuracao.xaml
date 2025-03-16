@@ -1,35 +1,32 @@
-<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:paginas="clr-namespace:AulaInvertida.View.Reutilizar"
              x:Class="AulaInvertida.View.Configuracao"
-             Title="Configuracao">
+             Title="Configuração">
     <VerticalStackLayout>
-        <VerticalStackLayout>
-            <paginas:Cabecalho/>
-        </VerticalStackLayout>
+        <paginas:Cabecalho/>
 
-        
-        <VerticalStackLayout>
-            <Grid RowDefinitions="*,*,*,*" ColumnDefinitions="*,*">
-                <Label HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="0" Grid.Column="0" Text="Foto:"/>
-                <Image HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="0" Grid.Column="1" MaximumWidthRequest="200" Source="customerloginicon8.jpg"/>
+        <Grid Padding="10" HorizontalOptions="Center">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Label Text="Foto:" Grid.Row="0" Grid.Column="0" VerticalOptions="Center" HorizontalOptions="Center" />
+            <Image Source="customerloginicon8.jpg" Grid.Row="0" Grid.Column="1" WidthRequest="100" VerticalOptions="Center" HorizontalOptions="Center" />
+            <Label Text="RA:" Grid.Row="1" Grid.Column="0" VerticalOptions="Center" HorizontalOptions="Center" />
+            <Label Text="47708562880" Grid.Row="1" Grid.Column="1" VerticalOptions="Center" HorizontalOptions="Center" />
+            <Label Text="Nome:" Grid.Row="2" Grid.Column="0" VerticalOptions="Center" HorizontalOptions="Center" />
+            <Label Text="Nome do Aluno" Grid.Row="2" Grid.Column="1" VerticalOptions="Center" HorizontalOptions="Center" />
+            <Label Text="Curso:" Grid.Row="3" Grid.Column="0" VerticalOptions="Center" HorizontalOptions="Center" />
+            <Label Text="Tecnólogo em Análise e Desenvolvimento de Sistemas" Grid.Row="3" Grid.Column="1" VerticalOptions="Center" HorizontalOptions="Center" />
+        </Grid>
 
-                <Label HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="1" Grid.Column="0" Text="RA:"/>
-                <Label HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="1" Grid.Column="1" Text="47708562880"/>
-
-                <Label HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="2" Grid.Column="0" Text="Nome:"/>
-                <Label HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="2" Grid.Column="1" Text="Nome do Aluno"/>
-
-                <Label HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="3" Grid.Column="0" Text="Curso"/>
-                <Label HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="3" Grid.Column="1" Text="Tecnólogo em Análise e Desenvolvimento de Sistemas"/>
-            </Grid>
-        </VerticalStackLayout>
-
-
-        <VerticalStackLayout>
-            <paginas:Rodape/>
-        </VerticalStackLayout>
+        <paginas:Rodape/>
     </VerticalStackLayout>
-    
 </ContentPage>

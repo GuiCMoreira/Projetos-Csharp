@@ -3,18 +3,11 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AulaInvertida.View.Reutilizar.Cabecalho">
     <VerticalStackLayout>
-        <Grid BackgroundColor="White">
-            <Image Source="cps.png"
-                   MaximumWidthRequest="100"
-                   HorizontalOptions="Start"/>
-            
-            <Image Source="logofatec.png"
-                   MaximumWidthRequest="100"
-                   HorizontalOptions="Center"/>
-
-            <Image Source="sp.png"
-                   MaximumWidthRequest="100"
-                   HorizontalOptions="End"/>
+        <Grid BackgroundColor="White" ColumnDefinitions="*,*,*" Padding="10">
+            <Image Source="cps.png" Grid.Column="0" HorizontalOptions="Start" WidthRequest="100" />
+            <Image Source="logofatec.png" Grid.Column="1" HorizontalOptions="Center" WidthRequest="100" />
+            <Image Source="sp.png" Grid.Column="2" HorizontalOptions="End" WidthRequest="100" />
         </Grid>
+        <BoxView HeightRequest="1" BackgroundColor="Gray" Margin="10" />
     </VerticalStackLayout>
 </ContentView>

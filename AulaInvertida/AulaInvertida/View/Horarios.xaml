@@ -1,22 +1,49 @@
-<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:paginas="clr-namespace:AulaInvertida.View.Reutilizar"
              x:Class="AulaInvertida.View.Horarios"
-             Title="Horarios">
+             Title="Horários">
     <VerticalStackLayout>
-        <VerticalStackLayout>
-            <paginas:Cabecalho/>
+        <paginas:Cabecalho/>
+        <VerticalStackLayout Padding="10">
+            <Label Text="Horários de Aulas" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center" />
+            <Grid x:Name="HorariosGrid"
+      ColumnDefinitions="Auto, *, *, *, *, *, *"
+      RowDefinitions="Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto"
+      ColumnSpacing="0" RowSpacing="0">
+
+                <Label Text="Horário" Grid.Row="0" Grid.Column="0" Style="{StaticResource HeaderStyle}" />
+                <Label Text="Segunda" Grid.Row="0" Grid.Column="1" Style="{StaticResource HeaderStyle}" />
+                <Label Text="Terça" Grid.Row="0" Grid.Column="2" Style="{StaticResource HeaderStyle}" />
+                <Label Text="Quarta" Grid.Row="0" Grid.Column="3" Style="{StaticResource HeaderStyle}" />
+                <Label Text="Quinta" Grid.Row="0" Grid.Column="4" Style="{StaticResource HeaderStyle}" />
+                <Label Text="Sexta" Grid.Row="0" Grid.Column="5" Style="{StaticResource HeaderStyle}" />
+                <Label Text="Sábado" Grid.Row="0" Grid.Column="6" Style="{StaticResource HeaderStyle}" />
+
+                <Label Text="08:00 - 08:50" Grid.Row="1" Grid.Column="0" Style="{StaticResource TimeStyle}" />
+                <Label Text="08:50 - 09:40" Grid.Row="2" Grid.Column="0" Style="{StaticResource TimeStyle}" />
+                <Label Text="09:50 - 10:40" Grid.Row="3" Grid.Column="0" Style="{StaticResource TimeStyle}" />
+                <Label Text="10:40 - 11:30" Grid.Row="4" Grid.Column="0" Style="{StaticResource TimeStyle}" />
+                <Label Text="11:40 - 12:30" Grid.Row="5" Grid.Column="0" Style="{StaticResource TimeStyle}" />
+                <Label Text="12:30 - 13:20" Grid.Row="6" Grid.Column="0" Style="{StaticResource TimeStyle}" />
+
+                <Label Text="Linguagem de Programação" Grid.Row="2" Grid.Column="1" BackgroundColor="LightBlue" Style="{StaticResource CellStyle}" />
+                <Label Text="Laboratório de Hardware" Grid.Row="1" Grid.Column="2" BackgroundColor="LightGray" Style="{StaticResource CellStyle}" />
+                <Label Text="Engenharia de Software" Grid.Row="1" Grid.Column="3" BackgroundColor="Yellow" Style="{StaticResource CellStyle}" />
+                <Label Text="Linguagem de Programação IV" Grid.Row="1" Grid.Column="4" BackgroundColor="LightGreen" Style="{StaticResource CellStyle}" />
+                <Label Text="CHI" Grid.Row="1" Grid.Column="5" BackgroundColor="Pink" Style="{StaticResource CellStyle}" />
+                <Label Text="Cálculo" Grid.Row="5" Grid.Column="2" BackgroundColor="LightYellow" Style="{StaticResource CellStyle}" />
+                <Label Text="Banco de Dados" Grid.Row="3" Grid.Column="3" BackgroundColor="LightBlue" Style="{StaticResource CellStyle}" />
+                <Label Text="Engenharia de Software" Grid.Row="3" Grid.Column="4" BackgroundColor="Yellow" Style="{StaticResource CellStyle}" />
+                <Label Text="ABC" Grid.Row="3" Grid.Column="5" BackgroundColor="LightGreen" Style="{StaticResource CellStyle}" />
+                <Label Text="Livre" Grid.Row="4" Grid.Column="6" BackgroundColor="LightGray" Style="{StaticResource CellStyle}" />
+                <Label Text="Inglês" Grid.Row="6" Grid.Column="1" BackgroundColor="Green" Style="{StaticResource CellStyle}" />
+                <Label Text="Linguagem de Programação IV" Grid.Row="5" Grid.Column="3" BackgroundColor="LightGreen" Style="{StaticResource CellStyle}" />
+                <Label Text="Banco de Dados" Grid.Row="5" Grid.Column="4" BackgroundColor="LightBlue" Style="{StaticResource CellStyle}" />
+                <Label Text="DEF" Grid.Row="5" Grid.Column="5" BackgroundColor="Pink" Style="{StaticResource CellStyle}" />
+                
+            </Grid>
         </VerticalStackLayout>
-
-
-        <VerticalStackLayout>
-
-        </VerticalStackLayout>
-
-
-        <VerticalStackLayout>
-            <paginas:Rodape/>
-        </VerticalStackLayout>
+        <paginas:Rodape/>
     </VerticalStackLayout>
 </ContentPage>

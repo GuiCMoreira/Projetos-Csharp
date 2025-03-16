@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AulaInvertida")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+4ad6573981a35707d5f0084dfb70d8a2ca294485")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+2c08e13f128b5007f87a7411d52c4047db4f116d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AulaInvertida")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AulaInvertida")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -5,7 +5,29 @@
              x:Class="AulaInvertida.App">
     <Application.Resources>
         <ResourceDictionary>
-            <ResourceDictionary.MergedDictionaries>
+
+                    <Style x:Key="HeaderStyle" TargetType="Label">
+                        <Setter Property="FontAttributes" Value="Bold" />
+                        <Setter Property="HorizontalOptions" Value="Center" />
+                        <Setter Property="VerticalOptions" Value="Center" />
+                        <Setter Property="Padding" Value="5" />
+                    </Style>
+
+                    <Style x:Key="TimeStyle" TargetType="Label">
+                        <Setter Property="HorizontalOptions" Value="Center" />
+                        <Setter Property="VerticalOptions" Value="Center" />
+                        <Setter Property="Padding" Value="5" />
+                    </Style>
+
+                    <Style x:Key="CellStyle" TargetType="Label">
+                        <Setter Property="HorizontalOptions" Value="Fill" />
+                        <Setter Property="VerticalOptions" Value="Fill" />
+                        <Setter Property="HorizontalTextAlignment" Value="Center" />
+                        <Setter Property="VerticalTextAlignment" Value="Center" />
+                        <Setter Property="Padding" Value="5" />
+                    </Style>
+
+                    <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="Resources/Styles/Colors.xaml" />
                 <ResourceDictionary Source="Resources/Styles/Styles.xaml" />
             </ResourceDictionary.MergedDictionaries>

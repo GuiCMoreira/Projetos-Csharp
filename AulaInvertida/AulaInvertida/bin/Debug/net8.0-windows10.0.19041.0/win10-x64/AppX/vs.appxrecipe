@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-03-11T01:05:55.072</Modified>
+      <Modified>2025-03-16T21:42:47.511</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-03-11T00:16:31.740</Modified>
+      <Modified>2025-03-16T21:37:50.561</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AulaInvertida.runtimeconfig.json">
       <PackagePath>AulaInvertida.runtimeconfig.json</PackagePath>
-      <Modified>2025-03-10T22:25:36.155</Modified>
+      <Modified>2025-03-16T21:00:59.891</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AulaInvertida.dll">
       <PackagePath>AulaInvertida.dll</PackagePath>
-      <Modified>2025-03-11T01:05:53.545</Modified>
+      <Modified>2025-03-16T21:42:45.801</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AulaInvertida.exe</PackagePath>
-      <Modified>2025-03-11T01:05:53.633</Modified>
+      <Modified>2025-03-16T21:42:45.875</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -55,23 +55,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2025-03-10T22:25:31.301</Modified>
+      <Modified>2025-03-11T01:10:15.129</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2025-03-10T22:25:31.324</Modified>
+      <Modified>2025-03-11T01:10:15.162</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2025-03-10T22:25:31.340</Modified>
+      <Modified>2025-03-11T01:10:15.200</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2025-03-10T22:25:31.388</Modified>
+      <Modified>2025-03-11T01:10:15.252</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2025-03-10T22:25:31.544</Modified>
+      <Modified>2025-03-11T01:10:15.505</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -83,227 +83,227 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2025-03-11T00:03:03.956</Modified>
+      <Modified>2025-03-11T01:10:16.769</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.944</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.943</Modified>
+      <Modified>2025-03-11T01:10:16.754</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.943</Modified>
+      <Modified>2025-03-11T01:10:16.754</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.943</Modified>
+      <Modified>2025-03-11T01:10:16.754</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.942</Modified>
+      <Modified>2025-03-11T01:10:16.754</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.953</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.953</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.953</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.953</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.953</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.953</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.953</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.953</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.953</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.953</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.956</Modified>
+      <Modified>2025-03-11T01:10:16.769</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.956</Modified>
+      <Modified>2025-03-11T01:10:16.769</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.956</Modified>
+      <Modified>2025-03-11T01:10:16.769</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.956</Modified>
+      <Modified>2025-03-11T01:10:16.769</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.956</Modified>
+      <Modified>2025-03-11T01:10:16.769</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.956</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.956</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.956</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.956</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.956</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.948</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.948</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.947</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.947</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.947</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.950</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.950</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.949</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.949</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.949</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.950</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.950</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.950</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.950</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.950</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.946</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.946</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.946</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.944</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.944</Modified>
+      <Modified>2025-03-11T01:10:16.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cps.scale-100.png">
       <PackagePath>cps.scale-100.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.929</Modified>
+      <Modified>2025-03-11T01:10:16.754</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\customerloginicon8.scale-100.jpg">
       <PackagePath>customerloginicon8.scale-100.jpg</PackagePath>
-      <Modified>2025-03-11T00:03:03.942</Modified>
+      <Modified>2025-03-11T01:10:16.754</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.956</Modified>
+      <Modified>2025-03-11T01:10:16.754</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.956</Modified>
+      <Modified>2025-03-11T01:10:16.754</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.956</Modified>
+      <Modified>2025-03-11T01:10:16.754</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.956</Modified>
+      <Modified>2025-03-11T01:10:16.754</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.956</Modified>
+      <Modified>2025-03-11T01:10:16.754</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logofatec.scale-100.png">
       <PackagePath>logofatec.scale-100.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.942</Modified>
+      <Modified>2025-03-11T01:10:16.754</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sp.scale-100.png">
       <PackagePath>sp.scale-100.png</PackagePath>
-      <Modified>2025-03-11T00:03:03.942</Modified>
+      <Modified>2025-03-11T01:10:16.754</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projetos-Csharp\AulaInvertida\AulaInvertida\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AulaInvertida.deps.json">
       <PackagePath>AulaInvertida.deps.json</PackagePath>
-      <Modified>2025-03-10T23:40:50.868</Modified>
+      <Modified>2025-03-16T21:37:50.191</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gui03\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
